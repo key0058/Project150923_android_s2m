@@ -1,0 +1,36 @@
+<resources>
+        <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_mail">E-Mail Setting</string>
+    <string name="pref_header_sms">SMS Setting</string>
+    <string name="pref_header_other">Other</string>
+
+    <string name="pref_title_mail_smtp_host">SMTP Host</string>
+    <string name="pref_default_mail_smtp_host">smtp.163.com</string>
+
+    <string name="pref_title_mail_smtp_port">SMTP Port</string>
+    <string name="pref_default_mail_smtp_port">25</string>
+
+    <string name="pref_title_mail_smtp_auth">SMTP Authentication</string>
+    <string name="pref_default_mail_smtp_auth">Recommond click it.</string>
+
+    <string name="pref_title_mail_smtp_user">SMTP UserName</string>
+    <string name="pref_default_mail_smtp_user">xxx@163.com</string>
+
+    <string name="pref_title_mail_smtp_password">SMTP Password</string>
+    <string name="pref_default_mail_smtp_password">********</string>
+
+    <string name="pref_title_mail_to_user">Receiver E-Mail</string>
+    <string name="pref_default_mail_to_user">xxx@xxx.com</string>
+
+    <string name="pref_title_sms_filter_number">Filter Number</string>
+    <string name="pref_default_sms_filter_number">10010</string>
+
+    <string name="pref_title_other_about_me">About</string>
+    <string name="pref_default_other_about_me"></string>
+
+
+</resources>
